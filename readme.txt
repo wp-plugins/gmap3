@@ -1,16 +1,17 @@
 === Plugin Name ===
 Contributors: Ramoonus
-Donate link: http://www.ramoonus.nl
+Donate link: http://www.ramoonus.nl/donate/
 Tags: google maps, jquery, javascript, googlemaps, gmap, gmap3, maps
-Requires at least: 3.0.0
-Tested up to: 3.3.0
-Stable tag: 4.0
+Requires at least: 3.0
+Tested up to: 3.3
+Stable tag: 4.1
 
-A JQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
+jQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
 == Description ==
-A JQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
+jQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
 
 For more information visit http://gmap3.net/
+
 Javascript by Jean-Baptiste DEMONTE.
 
 == Installation ==
@@ -30,6 +31,11 @@ Updated the javascript to version 4.0
 Not relevant.
 
 == Changelog ==
+= 4.1 =
+* Updated the Javascript library to version 4.1
+* Readme update
+* Code optimalisation
+
 = 4.0 =
 * Updated the javascript to version 4.0
 
