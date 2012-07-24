@@ -6,7 +6,7 @@ Description: A JQuery plugin to create google maps with advanced features (overl
 Version: 4.1
 Author: Ramoonus
 Author URI: http://www.ramoonus.nl/
-License: GPL2
+License: GPLv3
 */
 
 function rw_gmap3_init() {
