@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl/donate/
-Tags: google maps, jquery, javascript, googlemaps, gmap, gmap3, maps
+Tags: google maps, jquery, javascript, googlemaps, gmap, gmap3, maps, adopt-me, google
 Requires at least: 3.0
-Tested up to: 3.3
+Tested up to: 3.9.1
 Stable tag: 4.1
 
 jQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
@@ -38,8 +38,6 @@ Not relevant.
 
 = 4.0 =
 * Updated the javascript to version 4.0
-
-Javascript changelog:
 * updated : clusters : options can now be defined (allow to change pane, ...)  
 * updated : clustering function now adds 2 overlays : the image and the shadow - it allows to get the mouse events even if the pane is changed  
 * new : add getDistance (use DistanceMatrixService)  
