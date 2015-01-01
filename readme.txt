@@ -2,9 +2,9 @@
 Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl/donate/
 Tags: google maps, jquery, javascript, googlemaps, gmap, gmap3, maps, adopt-me, google
-Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 4.1
+Requires at least: 3.9
+Tested up to: 4.1
+Stable tag: 6.0.0
 
 jQuery plugin to create google maps with advanced features (overlays, clusters, callbacks, events...)
 == Description ==
@@ -31,6 +31,9 @@ Updated the javascript to version 4.0
 Not relevant.
 
 == Changelog ==
+= 6.0.0 =
+* Updated the Javascript library to version 6.0.0
+
 = 4.1 =
 * Updated the Javascript library to version 4.1
 * Readme update
